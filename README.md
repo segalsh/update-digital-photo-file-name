@@ -1,6 +1,6 @@
 # update-digital-photo-file-name
 Simple python script to extract digital photo EXIF info and rename file accordingly
-This useful when creating digital album using photo taken with multiple devices. It name following timeline easier. 
+This useful when creating digital album using photo taken with multiple devices. It makes following timeline easier. 
 
 Usage: 
 1. copy the scripts to your digital photo folder 
